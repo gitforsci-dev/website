@@ -11,7 +11,5 @@ course:
   github-org: "https://github.com/gitforsci-cis/"
 
 md-01:
-  title: "Introduction & Clone"
+  title: "I have no title for these slides"
 
-md-02:
-  title: "Branching and Pull Request"
