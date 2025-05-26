@@ -32,7 +32,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -450,7 +470,7 @@ Lars Schöbitz
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_41ba624f" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_395d9ca9" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">02</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -557,7 +577,7 @@ Lars Schöbitz
 <section id="read-on-github-strategies" class="slide level2">
 <h2>Read on: GitHub strategies</h2>
 <ol type="1">
-<li><p>Openscapes Champions Lesson Series. <span class="citation" data-cites="julia_stewart_lowndes_2024_14428503">@julia_stewart_lowndes_2024_14428503</span>: <a href="https://openscapes.github.io/series/core-lessons/github/" class="uri">https://openscapes.github.io/series/core-lessons/github/</a></p></li>
+<li><p>Openscapes Champions Lesson Series. <span class="citation" data-cites="julia_stewart_lowndes_2024_14428503">Lowndes, Butland, and Robinson (<a href="#/references" role="doc-biblioref" onclick="">2024</a>)</span>: <a href="https://openscapes.github.io/series/core-lessons/github/" class="uri">https://openscapes.github.io/series/core-lessons/github/</a></p></li>
 <li><p>Excuse Me, Do You Have a Moment to Talk About Version Control? <a href="https://peerj.com/preprints/3159/" class="uri">https://peerj.com/preprints/3159/</a></p></li>
 </ol>
 </section></section>
@@ -580,9 +600,78 @@ Lars Schöbitz
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_d8ed55a6" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_ae84b33a" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">01</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+</div>
+</div>
+</section>
+<section id="your-turn-2" class="slide level2 smaller">
+<h2>Your turn</h2>
+<div class="task">
+<ol type="1">
+<li>Clone a GitHub repository of a fellow student (browse: github.com/username to fine the repository <code>website</code>)</li>
+<li>Open the repository in RStudio IDE</li>
+<li>Make a change the <code>README.md</code> file</li>
+<li>Save the file</li>
+<li>Stage, Commit &amp; Push the changes</li>
+</ol>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>id</th>
+<th>username1</th>
+<th>username2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Madliboom</td>
+<td>fdaguanno</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>TillRoost</td>
+<td>mag-wer</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>pacotvj99</td>
+<td>louma3000</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>ellahenninger</td>
+<td>CamilleFournierDL</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>dheimgartner</td>
+<td>jineichen</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>vgeier</td>
+<td>rjalcock</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Jonathan-Elkobi</td>
+<td>rainbow-train</td>
+</tr>
+</tbody>
+</table>
+<div class="hand">
+<p>What happens?</p>
+</div>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<div class="countdown" id="timer_1ee46020" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
+<code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 </div>
 </div>
@@ -599,7 +688,7 @@ Lars Schöbitz
 
 <img data-src="images/pixel-art-tree.png" style="width:50.0%" alt="This is the prompt generated by DALL-E 3 by OpenAI: A pixel art scene representing the concept of taking a break. The scene shows a serene outdoor setting with a clear blue sky. In the center, a small pixelated character is sitting comfortably on a bright green grassy hill, under the shade of a large, leafy tree. The character is depicted in a relaxed pose, perhaps sipping a warm beverage from a small cup. Nearby, a gentle stream flows, and a few fluffy white clouds drift in the sky. The overall mood of the image is peaceful and calming, emphasizing the tranquility of taking a break in nature." class="r-stretch"><div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_199518c0" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_57935243" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">15</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -614,7 +703,7 @@ Lars Schöbitz
 <h1>Clone &amp; Branch</h1>
 
 </section>
-<section id="your-turn-2" class="slide level2 smaller">
+<section id="your-turn-3" class="slide level2 smaller">
 <h2>Your turn</h2>
 <div class="task">
 <ol type="1">
@@ -639,7 +728,7 @@ Lars Schöbitz
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_d1ad8ec3" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_5b7b91db" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -660,7 +749,7 @@ Lars Schöbitz
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_3ad48010" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_5c889d06" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">01</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -681,7 +770,7 @@ Lars Schöbitz
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_3c4035ef" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_ddeec6df" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">01</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -737,15 +826,20 @@ Lars Schöbitz
 <section id="thanks" class="slide level2">
 <h2>Thanks!</h2>
 <p>Slides created via revealjs and Quarto: <a href="https://quarto.org/docs/presentations/revealjs/" class="uri">https://quarto.org/docs/presentations/revealjs/</a></p>
-<p>Access slides as <a href="">PDF on GitHub</a></p>
+<p>Access slides as <a href="https://github.com/gitforsci-cis/website/raw/main/1-1-website/1-1-website.pdf">PDF on GitHub</a></p>
 <p>All material is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share Alike 4.0 International</a>.</p>
 </section>
-<section id="references" class="slide level2">
+<section id="references" class="slide level2 smaller scrollable">
 <h2>References</h2>
 
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 <p><a href="https://gitforsci-cis.github.io/website/"><i class="fa-solid fa-link" aria-label="link"></i> https://gitforsci-cis.github.io/website/</a></p>
+</div>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-julia_stewart_lowndes_2024_14428503" class="csl-entry" role="listitem">
+Lowndes, Julia Stewart, Stefanie Butland, and Erin Robinson. 2024. <span>“Openscapes/Series: Openscapes Lesson Series V2024.11.0.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.14428503">https://doi.org/10.5281/zenodo.14428503</a>.
 </div>
 </div>
 </section></section>
