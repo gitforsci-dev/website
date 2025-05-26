@@ -52,6 +52,10 @@ website:
             text: "Step 7: Test your setup"
           - href: 0-1-pre-work/08-big-picture.qmd
             text: "Step 8: Why Git? Why GitHub?"
+      - section: "Workshop"
+        contents:
+          - href: 1-1-website/index.qmd
+            text: "Git for Scientists"
 
 format:
   html:

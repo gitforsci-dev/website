@@ -1,17 +1,17 @@
 ---
-title: "{{< var md-01.title >}}"
+title: "{{< var course.long-title >}}"
 bibliography: ../references.bib
 ---
 
-## Slides
+## {{< fa display >}} Slides
 
-[View slides in full screen](1-1-website.html)
+[View slides in full screen](1-1-website.html) | [Download slides as PDF](https://github.com/gitforsci-cis/website/raw/main/1-1-website/1-1-website.pdf)
 
 ```{=html}
 <iframe class="slide-deck" src="1-1-website.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
 ```
 
-## Readings
+## {{< fa book >}} Readings
 
 1. Openscapes Champions Lesson Series. @julia_stewart_lowndes_2024_14428503: <https://openscapes.github.io/series/core-lessons/github/>
 
