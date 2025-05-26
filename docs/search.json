@@ -461,6 +461,55 @@
     "href": "1-1-website/1-1-website.html#your-turn-2",
     "title": "I have no title for these slides",
     "section": "Your turn",
-    "text": "Your turn\n\n\nOpen the landing page for the GitHub organization ‘gitforsci-cis’: https://github.com/gitforsci-cis (try to use your bookmark)\nNavigate down the page to the section “Repositories” and use the search field to find the repository called man-washinvestments-USERNAME where USERNAME is your GitHub username.\nClick on the repository name to open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard by clicking on the clipboard sign.\nOpen the RStudio IDE on your laptop.\nClick on File &gt; New Project in the top menu bar\nClick on Version Control.\nClick on Git.\nClick on Browse… button.\nUse the folder structure you created in the pre-course work (e.g. ~/Documents/gitrepos/gh-org-gitforsci-cis)\nPaste the HTTPS URL from GitHub into the “Repository URL” field.\nClick on the “Create Project” button.\nFind the Files tab in the bottom right pane of RStudio.\n\n\nPlace the yellow sticky note on your laptop when you have completed the task."
+    "text": "Your turn\n\n\nOpen the landing page for the GitHub organization ‘gitforsci-cis’: https://github.com/gitforsci-cis (try to use your bookmark)\nNavigate down the page to the section “Repositories” and use the search field to find the repository called man-washinvestments-USERNAME where USERNAME is your GitHub username.\nClick on the repository name to open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard by clicking on the clipboard sign.\nOpen the RStudio IDE on your laptop.\nClick on File &gt; New Project in the top menu bar\nClick on Version Control.\nClick on Git.\nClick on Browse… button.\nUse the folder structure you created in the pre-course work (e.g. ~/Documents/gitrepos/gh-org-gitforsci-cis)\nPaste the HTTPS URL from GitHub into the “Repository URL” field.\nClick on the “Create Project” button.\nFind the Files tab in the bottom right pane of RStudio.\n\n\nPlace the yellow sticky note on your laptop when you have completed the task.\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#our-turn",
+    "href": "1-1-website/1-1-website.html#our-turn",
+    "title": "I have no title for these slides",
+    "section": "Our turn",
+    "text": "Our turn\n\n\nWe will continue together with man-washinvestments-USERNAME where USERNAME is your GitHub\n\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#our-turn-1",
+    "href": "1-1-website/1-1-website.html#our-turn-1",
+    "title": "I have no title for these slides",
+    "section": "Our turn",
+    "text": "Our turn\n\n\nWe will continue together with man-washinvestments-USERNAME where USERNAME is your GitHub\n\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#github-pages",
+    "href": "1-1-website/1-1-website.html#github-pages",
+    "title": "I have no title for these slides",
+    "section": "GitHub Pages",
+    "text": "GitHub Pages\n\nGitHub Pages is a free service for hosting static websites. It is ideal for blogs, course or project websites, books, presentations, and personal hobby sites."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#minimal-example---requirements",
+    "href": "1-1-website/1-1-website.html#minimal-example---requirements",
+    "title": "I have no title for these slides",
+    "section": "Minimal Example - Requirements",
+    "text": "Minimal Example - Requirements\n\nLanding site needs to be stored as index.qmd\nThe index.qmd needs to be stored in docs folder\nExample works well for a report/article as a stand-alone page\nQuarto provides a framework and examples for more complex websites: https://quarto.org/docs/websites/"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#quarto-websites",
+    "href": "1-1-website/1-1-website.html#quarto-websites",
+    "title": "I have no title for these slides",
+    "section": "Quarto websites",
+    "text": "Quarto websites\n\nWebsites are essentially format: html + a Quarto Project\nBut a website is different than format: html in that it has multiple pages\nWebsites can be your first exploration into Quarto Projects\nWebsites and books are very similar in that they associate multiple pages/resources into a connected resource"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#learn-more",
+    "href": "1-1-website/1-1-website.html#learn-more",
+    "title": "I have no title for these slides",
+    "section": "Learn more",
+    "text": "Learn more\n\nquarto.org/docs/websites"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#wrap-up-1",
+    "href": "1-1-website/1-1-website.html#wrap-up-1",
+    "title": "I have no title for these slides",
+    "section": "Wrap-up",
+    "text": "Wrap-up\n\nPost your collected questions in the Element channel\nStart your first project using Git & GitHub (already have a project? Read here)\nKeep learning by doing (create PRs to yourself)\nShare your knowledge with others (help them get started)"
   }
 ]

@@ -312,6 +312,80 @@ Place the yellow sticky note on your laptop when you have completed the task.
 countdown(minutes = 5)
 ```
 
+# Pull Request & Merge {background-color="#4C326A"}
+
+## Our turn {.smaller}
+
+::: task
+
+- We will continue together with `man-washinvestments-USERNAME` where USERNAME is your GitHub
+
+:::
+
+```{r}
+#| echo: false
+
+countdown(minutes = 1)
+```
+
+# Publish {background-color="#4C326A"}
+
+## Our turn {.smaller}
+
+::: task
+
+- We will continue together with `man-washinvestments-USERNAME` where USERNAME is your GitHub
+
+:::
+
+```{r}
+#| echo: false
+
+countdown(minutes = 1)
+```
+
+## GitHub Pages
+
+-  [GitHub Pages](https://pages.github.com/) is a free service for hosting static websites. It is ideal for blogs, course or project websites, books, presentations, and personal hobby sites.
+
+```{r}
+#| echo: false
+knitr::include_graphics("images/screenshot-gh-pages.png")
+```
+
+## Minimal Example - Requirements
+
+- Landing site needs to be stored as `index.qmd`
+- The `index.qmd` needs to be stored in `docs` folder
+- Example works well for a report/article as a stand-alone page
+- Quarto provides a framework and examples for more complex websites: <https://quarto.org/docs/websites/>
+
+## Quarto websites
+
+-   Websites are essentially `format: html` + a Quarto Project
+-   But a website is different than `format: html` in that it has multiple pages
+-   Websites can be your first exploration into Quarto Projects
+-   Websites and books are very similar in that they associate multiple pages/resources into a connected resource
+
+## Learn more
+
+::: learn-more
+[quarto.org/docs/websites](https://quarto.org/docs/websites/)
+
+```{=html}
+<iframe src="https://quarto.org/docs/websites" width="100%" height="500" style="border:2px solid #123233;" title="Quarto Journal Articles"></iframe>
+```
+:::
+
+# Wrap-up {background-color="#4C326A"}
+
+## Wrap-up
+
+- Post your collected questions in the Element channel
+- Start your first project using Git & GitHub (already have a project? [Read here](https://happygitwithr.com/existing-github-first#existing-github-first))
+- Keep learning by doing (create PRs to yourself)
+- Share your knowledge with others (help them get started)
+
 ## Thanks! 
 
 Slides created via revealjs and Quarto: <https://quarto.org/docs/presentations/revealjs/>
