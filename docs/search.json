@@ -440,13 +440,27 @@
     "href": "1-1-website/1-1-website.html#take-a-break",
     "title": "I have no title for these slides",
     "section": "Take a break",
-    "text": "Take a break\nPlease get up and move! Leave your emails alone.\n\n\n\n\n−+\n10:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
+    "text": "Take a break\nPlease get up and move! Leave your emails alone.\n\n\n\n\n−+\n15:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
   },
   {
     "objectID": "1-1-website/1-1-website.html#your-turn-1",
     "href": "1-1-website/1-1-website.html#your-turn-1",
     "title": "I have no title for these slides",
     "section": "Your turn",
-    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
+    "text": "Your turn\n\n\nOpen github.com\nNavigate to your profile\nWhen completed, place a yellow sticky note on your laptop\n\n\nNow, follow along the screen and instructor.\n\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#read-on-fork-and-clone",
+    "href": "1-1-website/1-1-website.html#read-on-fork-and-clone",
+    "title": "I have no title for these slides",
+    "section": "Read on: Fork and clone",
+    "text": "Read on: Fork and clone\n\nHappy Git and GitHub for the useR"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#your-turn-2",
+    "href": "1-1-website/1-1-website.html#your-turn-2",
+    "title": "I have no title for these slides",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nOpen the landing page for the GitHub organization ‘gitforsci-cis’: https://github.com/gitforsci-cis (try to use your bookmark)\nNavigate down the page to the section “Repositories” and use the search field to find the repository called man-washinvestments-USERNAME where USERNAME is your GitHub username.\nClick on the repository name to open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard by clicking on the clipboard sign.\nOpen the RStudio IDE on your laptop.\nClick on File &gt; New Project in the top menu bar\nClick on Version Control.\nClick on Git.\nClick on Browse… button.\nUse the folder structure you created in the pre-course work (e.g. ~/Documents/gitrepos/gh-org-gitforsci-cis)\nPaste the HTTPS URL from GitHub into the “Repository URL” field.\nClick on the “Create Project” button.\nFind the Files tab in the bottom right pane of RStudio.\n\n\nPlace the yellow sticky note on your laptop when you have completed the task."
   }
 ]

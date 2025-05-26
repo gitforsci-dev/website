@@ -227,7 +227,7 @@ GitHub enables new frontiers for open science as we collaborate, share, and publ
 
 2. Excuse Me, Do You Have a Moment to Talk About Version Control? <https://peerj.com/preprints/3159/>
 
-# 
+# Create & Clone {background-color="#4C326A"}
 
 ## Your turn
 
@@ -248,6 +248,10 @@ Now, follow along the screen and instructor.
 countdown(minutes = 1)
 ```
 
+## Read on: Fork and clone
+
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/fork-and-clone)
+
 ## Take a break
 
 [Please get up and move!]{.highlight-yellow} Leave your emails alone.
@@ -256,12 +260,57 @@ countdown(minutes = 1)
 
 ```{r}
 #| echo: false
-countdown(minutes = 10)
+countdown(minutes = 15)
 ```
 
 ::: footer
 Image generated with [DALL-E 3 by OpenAI](https://openai.com/blog/dall-e/)
 :::
+
+# Clone & Branch {background-color="#4C326A"}
+
+## Your turn {.smaller}
+
+::: task
+
+1. Open the landing page for the GitHub organization 'gitforsci-cis': <https://github.com/gitforsci-cis> (try to use your bookmark)
+
+2. Navigate down the page to the section "Repositories" and use the search field to find the repository called `man-washinvestments-USERNAME` where USERNAME is your GitHub username.
+
+3. Click on the repository name to open it.
+
+4. Click on the green "Code" button.
+
+5. Copy the HTTPS URL to your clipboard by clicking on the clipboard sign.
+
+6. Open the RStudio IDE on your laptop.
+
+7. Click on [File > New Project]{.highlight-yellow} in the top menu bar
+
+8. Click on Version Control.
+
+9. Click on Git.
+
+10. Click on [Browse...]{.highlight-yellow} button.
+
+11. Use the folder structure you created in the pre-course work (e.g. `~/Documents/gitrepos/gh-org-gitforsci-cis`)
+
+12. Paste the HTTPS URL from GitHub into the "Repository URL" field.
+
+13. Click on the "Create Project" button.
+
+14. Find the Files tab in the bottom right pane of RStudio.
+
+::: hand
+Place the yellow sticky note on your laptop when you have completed the task.
+:::
+:::
+
+```{r}
+#| echo: false
+
+countdown(minutes = 5)
+```
 
 ## Thanks! 
 
