@@ -396,5 +396,15 @@
       "Pre-course work",
       "Step 7: Test your setup"
     ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Pre-course work: Git for Scientists",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n10:00 - 10:15\nGitHub for Collaboration\n\n\n10:15 - 10:45\nCreate & Clone\n\n\n10:45 - 11:00\nBreak\n\n\n11:00 - 11:15\nClone & Branch\n\n\n11:15 - 11:30\nPull Request & Merge\n\n\n11:30 - 11:35\nPublish\n\n\n11:35 - 11:45\nWrap-up",
+    "crumbs": [
+      "Pre-course work"
+    ]
   }
 ]

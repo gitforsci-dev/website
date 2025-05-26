@@ -52,14 +52,12 @@ library(knitr)
 library(readr)
 ```
 
-## Course schedule
-
-- coming soon
+## Schedule
 
 ```{r}
 #| tbl-colwidths: [25,75]
-#| eval: false 
-read_csv(here::here("data/tbl-01-quarto-rdmss-24-course-schedule.csv")) |> 
+
+read_csv(here::here("data/tbl-01-gitforsci-cis-course-schedule.csv")) |> 
   filter(day == 1) |> 
   select(Time = time, Module = title) |> 
   kable()
