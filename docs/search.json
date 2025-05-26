@@ -117,11 +117,11 @@
     ]
   },
   {
-    "objectID": "index.html#course-schedule",
-    "href": "index.html#course-schedule",
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
     "title": "Pre-course work: Git for Scientists",
-    "section": "Course schedule",
-    "text": "Course schedule\n\ncoming soon",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n10:00 - 10:15\nGitHub for Collaboration\n\n\n10:15 - 10:45\nCreate & Clone\n\n\n10:45 - 11:00\nBreak\n\n\n11:00 - 11:15\nClone & Branch\n\n\n11:15 - 11:30\nPull Request & Merge\n\n\n11:30 - 11:35\nPublish\n\n\n11:35 - 11:45\nWrap-up",
     "crumbs": [
       "Pre-course work"
     ]
@@ -149,119 +149,229 @@
   {
     "objectID": "1-1-website/index.html",
     "href": "1-1-website/index.html",
-    "title": "Introduction & Clone",
+    "title": "Git for Scientists",
     "section": "",
-    "text": "View slides in full screen"
+    "text": "View slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Workshop",
+      "Git for Scientists"
+    ]
   },
   {
     "objectID": "1-1-website/index.html#slides",
     "href": "1-1-website/index.html#slides",
-    "title": "Introduction & Clone",
+    "title": "Git for Scientists",
     "section": "",
-    "text": "View slides in full screen"
+    "text": "View slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Workshop",
+      "Git for Scientists"
+    ]
   },
   {
     "objectID": "1-1-website/index.html#readings",
     "href": "1-1-website/index.html#readings",
-    "title": "Introduction & Clone",
-    "section": "Readings",
-    "text": "Readings\n\nOpenscapes Champions Lesson Series. Lowndes, Butland, and Robinson (2024): https://openscapes.github.io/series/core-lessons/github/\nExcuse Me, Do You Have a Moment to Talk About Version Control? https://peerj.com/preprints/3159/"
+    "title": "Git for Scientists",
+    "section": " Readings",
+    "text": "Readings\n\nOpenscapes Champions Lesson Series. Lowndes, Butland, and Robinson (2024): https://openscapes.github.io/series/core-lessons/github/\nExcuse Me, Do You Have a Moment to Talk About Version Control? https://peerj.com/preprints/3159/",
+    "crumbs": [
+      "Workshop",
+      "Git for Scientists"
+    ]
   },
   {
     "objectID": "1-1-website/1-1-website.html#meet-the-lecturer",
     "href": "1-1-website/1-1-website.html#meet-the-lecturer",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "Meet the lecturer",
     "text": "Meet the lecturer\nLars Schöbitz\n\n\nEnvironmental Engineer 🔨\nRetired researcher 🛏\nRStudio certified instructor\nData steward at ETHZ"
   },
   {
-    "objectID": "1-1-website/1-1-website.html#learning-goals-for-the-course",
-    "href": "1-1-website/1-1-website.html#learning-goals-for-the-course",
-    "title": "Introduction & Clone",
-    "section": "Learning Goals (for the course)",
-    "text": "Learning Goals (for the course)"
+    "objectID": "1-1-website/1-1-website.html#learning-objectives",
+    "href": "1-1-website/1-1-website.html#learning-objectives",
+    "title": "I have no title, yet.",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nBy the end of this workshop, participants will be able to:\n\n\nCreate and clone repositories, and explain the difference between cloning and forking a repository.\nApply the standard Git workflow using RStudio IDE—including pull, stage, commit, and push changes to GitHub.\nWork with branches and pull requests by creating and managing development branches (using both RStudio and the terminal), submitting pull requests, and reviewing and commenting on others’ pull requests to facilitate code review and collaborative development."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#teaching-strategy",
+    "href": "1-1-website/1-1-website.html#teaching-strategy",
+    "title": "I have no title, yet.",
+    "section": "Teaching strategy",
+    "text": "Teaching strategy\n\nTeaching Git on a “need to know” basis\nTeaching only a very small subset of Git’s functionality\nCreating a safe space for learning and getting support (use Element)\nFocus on collaboration aspects of GitHub"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#schedule",
+    "href": "1-1-website/1-1-website.html#schedule",
+    "title": "I have no title, yet.",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n10:00 - 10:15\nGitHub for Collaboration\n\n\n10:15 - 10:45\nCreate & Clone\n\n\n10:45 - 11:00\nBreak\n\n\n11:00 - 11:15\nClone & Branch\n\n\n11:15 - 11:30\nPull Request & Merge\n\n\n11:30 - 11:35\nPublish\n\n\n11:35 - 11:45\nWrap-up"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#your-turn",
+    "href": "1-1-website/1-1-website.html#your-turn",
+    "title": "I have no title, yet.",
+    "section": "Your turn",
+    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
   },
   {
     "objectID": "1-1-website/1-1-website.html#section",
     "href": "1-1-website/1-1-website.html#section",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "",
     "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nWhy GitHub?\n“Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review.” - Jenny Bryan\nBryan J. 2017. Excuse me, do you have a moment to talk about version control? PeerJ Preprints 5:e3159v2 https://doi.org/10.7287/peerj.preprints.3159v2"
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-1",
     "href": "1-1-website/1-1-website.html#section-1",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "",
     "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nWhy GitHub?\nThe concepts, mechanics, and vocabulary of GitHub (and underlying software Git) are new and unfamiliar when we get started or learn more about its capabilities. Hadley Wickham and Jenny Bryan use the analogy of climbing to describe how GitHub can keep us safe while also showing our journey.\nWickham & Bryan, R Packages https://r-pkgs.org/preface.html"
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-2",
     "href": "1-1-website/1-1-website.html#section-2",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "",
     "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps streamline our work\nGitHub helps streamline our work because it takes care of otherwise time-consuming bookkeeping and unrelenting file tracking. Instead of spending our time inspecting and fretting over whether “analysis_final_v2.xls” or “analysis_final_final.xls” is truly the final version, with GitHub we can be confident in our completed analysis and move to the next step."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-3",
     "href": "1-1-website/1-1-website.html#section-3",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "",
     "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us support\nGitHub helps us support others and existing work. Whether we are organizing, improving documentation, or asking and answering questions, GitHub helps us provide support to our collaborators on projects, whether we are writing code or not."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-4",
     "href": "1-1-website/1-1-website.html#section-4",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "",
     "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us reuse\nGitHub helps us reuse existing work, which lets us learn and build from other people’s shared experience rather than reinventing on our own. Plus, the existing work gets better each time someone tries it and shares their experience back. Whether it’s code, documentation, or knowledge through posted conversations, reusing existing things can save time, resources, and frustration. Importantly, reuse also expands the value of existing work while celebrating the contributions of others."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-5",
     "href": "1-1-website/1-1-website.html#section-5",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "",
     "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us contribute\nGitHub helps us contribute ideas through code, text, and more, with less worry about file management. This helps us feel more confident to share work-in-progress and contribute to existing work, knowing that we won’t break things. It also helps us share work earlier that might be imperfect, since we can still make changes from there."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-6",
     "href": "1-1-website/1-1-website.html#section-6",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "",
     "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us fail safely\nGitHub helps us fail safely. Because we can return to previous versions easily, painful consequences of failing are reduced. We can more bravely try things and start making contributions, knowing that some (many?) will fail - but won’t be catastrophic! When we fail, we’ll be able to start again from where we left off (instead of from the ground), and a clear history can help us learn from the past."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-7",
     "href": "1-1-website/1-1-website.html#section-7",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "",
     "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nHarness the power of GitHub.\nOnce we are empowered to work collaboratively with GitHub, it opens up a whole new world of projects that feel more welcoming because we can contribute in many different ways, using familiar approaches, and evolving with new possibilities as they emerge. This transferrable ability to collaborate and develop confidence for trying new things might just be the best thing about GitHub."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-8",
     "href": "1-1-website/1-1-website.html#section-8",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "",
     "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub for the win!\nGitHub enables new frontiers for open science as we collaborate, share, and publish more easily. And, it is critical to continually question who is safe to participate with these tools. Who is not yet participating, and why? Barriers to access include past exclusion, skills, and support. Let’s all work empathetically and inclusively to help make more people feel welcome and safe using these powerful tools so we can all go further, together."
   },
   {
     "objectID": "1-1-website/1-1-website.html#read-on-github-strategies",
     "href": "1-1-website/1-1-website.html#read-on-github-strategies",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "Read on: GitHub strategies",
     "text": "Read on: GitHub strategies\n\nOpenscapes Champions Lesson Series. @julia_stewart_lowndes_2024_14428503: https://openscapes.github.io/series/core-lessons/github/\nExcuse Me, Do You Have a Moment to Talk About Version Control? https://peerj.com/preprints/3159/"
   },
   {
+    "objectID": "1-1-website/1-1-website.html#your-turn-1",
+    "href": "1-1-website/1-1-website.html#your-turn-1",
+    "title": "I have no title, yet.",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nOpen github.com\nNavigate to your profile\nWhen completed, place a yellow sticky note on your laptop\n\n\nNow, follow along the screen and instructor.\n\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#read-on-fork-and-clone",
+    "href": "1-1-website/1-1-website.html#read-on-fork-and-clone",
+    "title": "I have no title, yet.",
+    "section": "Read on: Fork and clone",
+    "text": "Read on: Fork and clone\n\nHappy Git and GitHub for the useR"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#take-a-break",
+    "href": "1-1-website/1-1-website.html#take-a-break",
+    "title": "I have no title, yet.",
+    "section": "Take a break",
+    "text": "Take a break\nPlease get up and move! Leave your emails alone.\n\n\n\n\n−+\n15:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#your-turn-2",
+    "href": "1-1-website/1-1-website.html#your-turn-2",
+    "title": "I have no title, yet.",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nOpen the landing page for the GitHub organization ‘gitforsci-cis’: https://github.com/gitforsci-cis (try to use your bookmark)\nNavigate down the page to the section “Repositories” and use the search field to find the repository called man-washinvestments-USERNAME where USERNAME is your GitHub username.\nClick on the repository name to open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard by clicking on the clipboard sign.\nOpen the RStudio IDE on your laptop.\nClick on File &gt; New Project in the top menu bar\nClick on Version Control.\nClick on Git.\nClick on Browse… button.\nUse the folder structure you created in the pre-course work (e.g. ~/Documents/gitrepos/gh-org-gitforsci-cis)\nPaste the HTTPS URL from GitHub into the “Repository URL” field.\nClick on the “Create Project” button.\nFind the Files tab in the bottom right pane of RStudio.\n\n\nPlace the yellow sticky note on your laptop when you have completed the task.\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#our-turn",
+    "href": "1-1-website/1-1-website.html#our-turn",
+    "title": "I have no title, yet.",
+    "section": "Our turn",
+    "text": "Our turn\n\n\nWe will continue together with man-washinvestments-USERNAME where USERNAME is your GitHub\n\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#our-turn-1",
+    "href": "1-1-website/1-1-website.html#our-turn-1",
+    "title": "I have no title, yet.",
+    "section": "Our turn",
+    "text": "Our turn\n\n\nWe will continue together with man-washinvestments-USERNAME where USERNAME is your GitHub\n\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#github-pages",
+    "href": "1-1-website/1-1-website.html#github-pages",
+    "title": "I have no title, yet.",
+    "section": "GitHub Pages",
+    "text": "GitHub Pages\n\nGitHub Pages is a free service for hosting static websites. It is ideal for blogs, course or project websites, books, presentations, and personal hobby sites."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#minimal-example---requirements",
+    "href": "1-1-website/1-1-website.html#minimal-example---requirements",
+    "title": "I have no title, yet.",
+    "section": "Minimal Example - Requirements",
+    "text": "Minimal Example - Requirements\n\nLanding site needs to be stored as index.qmd\nThe index.qmd needs to be stored in docs folder\nExample works well for a report/article as a stand-alone page\nQuarto provides a framework and examples for more complex websites: https://quarto.org/docs/websites/"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#quarto-websites",
+    "href": "1-1-website/1-1-website.html#quarto-websites",
+    "title": "I have no title, yet.",
+    "section": "Quarto websites",
+    "text": "Quarto websites\n\nWebsites are essentially format: html + a Quarto Project\nBut a website is different than format: html in that it has multiple pages\nWebsites can be your first exploration into Quarto Projects\nWebsites and books are very similar in that they associate multiple pages/resources into a connected resource"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#learn-more",
+    "href": "1-1-website/1-1-website.html#learn-more",
+    "title": "I have no title, yet.",
+    "section": "Learn more",
+    "text": "Learn more\n\nquarto.org/docs/websites"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#wrap-up-1",
+    "href": "1-1-website/1-1-website.html#wrap-up-1",
+    "title": "I have no title, yet.",
+    "section": "Wrap-up",
+    "text": "Wrap-up\n\nPost your collected questions in the Element channel\nStart your first project using Git & GitHub (already have a project? Read here)\nKeep learning by doing (create PRs to yourself)\nShare your knowledge with others (help them get started)"
+  },
+  {
     "objectID": "1-1-website/1-1-website.html#thanks",
     "href": "1-1-website/1-1-website.html#thanks",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "Thanks!",
     "text": "Thanks!\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International."
   },
   {
     "objectID": "1-1-website/1-1-website.html#references",
     "href": "1-1-website/1-1-website.html#references",
-    "title": "I have no title for these slides",
+    "title": "I have no title, yet.",
     "section": "References",
     "text": "References\n\n\n\n https://gitforsci-cis.github.io/website/"
   },
@@ -358,7 +468,7 @@
     "href": "0-1-pre-work/07-first-repo.html#step-3-clone-a-repository",
     "title": "Test your setup",
     "section": "Step 3: Clone a repository",
-    "text": "Step 3: Clone a repository\n\nOpen the landing page for the GitHub organization ‘gitforsci-cis’: https://github.com/gitforsci-cis (try to use your bookmark)\nNavigate down the page to the section “Repositories” and use the search field to find the repository called 01-setup-rainbow-train-USERNAME where USERNAME is your GitHub username.\n\n\n\nClick on the repository name to open it.\n\n\n\n\n\n\n\nNo repository with your username?\n\n\n\nLet me know on Element that your repository is not there. I will create it for you.\n\n\n\n\nClick on the green “Code” button.\n\n\n\nCopy the HTTPS URL to your clipboard by clicking on the clipboard sign.\n\n\n\nOpen the RStudio IDE on your laptop.\n\n\n\n\n\n\n\nNote\n\n\n\nI am working on MacOS, but the steps should be similar on Windows.\n\n\n\n\nClick on File &gt; New Project in the top menu bar\n\n\n\nClick on Version Control.\n\n\n\nClick on Git.\n\n\n\nClick on Browse… button.\n\n\n\nCreate a folder structure for Git repositories (e.g. ~/Documents/gitrepos/gh-org-gitforsci-cis)\n\n\n\n\n\n\n\nFolder structure for Git repositories and naming conventions\n\n\n\nI highly recommend storing folders that are Git repositories separate from other folders. This will help you to keep track of your Git repositories and avoid confusion with other folders.\nCreate this directory structure locally on your laptop and not in folders that are synced with cloud storage (e.g. Google Drive, Dropbox, OneDrive, etc.).\nIn your directory structure, you can create a folder called gitrepos. Inside this folder, you can create subfolders for each GitHub organization you are working with (e.g. gh-org-gitforsci-cis). A subfolder for your personal profile would be gh-rainbow-train. If you also work with GitLab or other Git hosting platforms, use the abbreviation for the platform in the folder name (e.g. gitrepos/gh-rainbow-train, gitrepos/gl-rainbow-train, etc.).\nThis strategy will help you to keep track of your Git repositories and the respective platforms and organisations they belong to.\n\n\n\nPaste the HTTPS URL from GitHub into the “Repository URL” field.\n\n\n\nClick on the “Create Project” button.\n\n\n\nFind the Files tab in the bottom right pane of RStudio.",
+    "text": "Step 3: Clone a repository\n\nOpen the landing page for the GitHub organization ‘gitforsci-cis’: https://github.com/gitforsci-cis (try to use your bookmark)\nNavigate down the page to the section “Repositories” and use the search field to find the repository called 01-setup--USERNAME where USERNAME is your GitHub username.\n\n\n\nClick on the repository name to open it.\n\n\n\n\n\n\n\nNo repository with your username?\n\n\n\nLet me know on Element that your repository is not there. I will create it for you.\n\n\n\n\nClick on the green “Code” button.\n\n\n\nCopy the HTTPS URL to your clipboard by clicking on the clipboard sign.\n\n\n\nOpen the RStudio IDE on your laptop.\n\n\n\n\n\n\n\nNote\n\n\n\nI am working on MacOS, but the steps should be similar on Windows.\n\n\n\n\nClick on File &gt; New Project in the top menu bar\n\n\n\nClick on Version Control.\n\n\n\nClick on Git.\n\n\n\nClick on Browse… button.\n\n\n\nCreate a folder structure for Git repositories (e.g. ~/Documents/gitrepos/gh-org-gitforsci-cis)\n\n\n\n\n\n\n\nFolder structure for Git repositories and naming conventions\n\n\n\nI highly recommend storing folders that are Git repositories separate from other folders. This will help you to keep track of your Git repositories and avoid confusion with other folders.\nCreate this directory structure locally on your laptop and not in folders that are synced with cloud storage (e.g. Google Drive, Dropbox, OneDrive, etc.).\nIn your directory structure, you can create a folder called gitrepos. Inside this folder, you can create subfolders for each GitHub organization you are working with (e.g. gh-org-gitforsci-cis). A subfolder for your personal profile would be gh-rainbow-train. If you also work with GitLab or other Git hosting platforms, use the abbreviation for the platform in the folder name (e.g. gitrepos/gh-rainbow-train, gitrepos/gl-rainbow-train, etc.).\nThis strategy will help you to keep track of your Git repositories and the respective platforms and organisations they belong to.\n\n\n\nPaste the HTTPS URL from GitHub into the “Repository URL” field.\n\n\n\nClick on the “Create Project” button.\n\n\n\nFind the Files tab in the bottom right pane of RStudio.",
     "crumbs": [
       "Pre-course work",
       "Step 7: Test your setup"
@@ -396,120 +506,5 @@
       "Pre-course work",
       "Step 7: Test your setup"
     ]
-  },
-  {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "Pre-course work: Git for Scientists",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n10:00 - 10:15\nGitHub for Collaboration\n\n\n10:15 - 10:45\nCreate & Clone\n\n\n10:45 - 11:00\nBreak\n\n\n11:00 - 11:15\nClone & Branch\n\n\n11:15 - 11:30\nPull Request & Merge\n\n\n11:30 - 11:35\nPublish\n\n\n11:35 - 11:45\nWrap-up",
-    "crumbs": [
-      "Pre-course work"
-    ]
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#learning-objectives",
-    "href": "1-1-website/1-1-website.html#learning-objectives",
-    "title": "I have no title for these slides",
-    "section": "Learning objectives",
-    "text": "Learning objectives\nBy the end of this workshop, participants will be able to:\n\n\nCreate and clone repositories, and explain the difference between cloning and forking a repository.\nApply the standard Git workflow using RStudio IDE—including pull, stage, commit, and push changes to GitHub.\nWork with branches and pull requests by creating and managing development branches (using both RStudio and the terminal), submitting pull requests, and reviewing and commenting on others’ pull requests to facilitate code review and collaborative development."
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#teaching-strategy",
-    "href": "1-1-website/1-1-website.html#teaching-strategy",
-    "title": "I have no title for these slides",
-    "section": "Teaching strategy",
-    "text": "Teaching strategy\n\nTeaching Git on a “need to know” basis\nTeaching only a very small subset of Git’s functionality\nCreating a safe space for learning and getting support (use Element)\nFocus on collaboration aspects of GitHub"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#schedule",
-    "href": "1-1-website/1-1-website.html#schedule",
-    "title": "I have no title for these slides",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nModule\n\n\n\n\n10:00 - 10:15\nGitHub for Collaboration\n\n\n10:15 - 10:45\nCreate & Clone\n\n\n10:45 - 11:00\nBreak\n\n\n11:00 - 11:15\nClone & Branch\n\n\n11:15 - 11:30\nPull Request & Merge\n\n\n11:30 - 11:35\nPublish\n\n\n11:35 - 11:45\nWrap-up"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#your-turn",
-    "href": "1-1-website/1-1-website.html#your-turn",
-    "title": "I have no title for these slides",
-    "section": "Your turn",
-    "text": "Your turn\n\nThink about the last time you published a written document:\n\nWhich tasks gave you joy?\nWhich tasks were challenging or frustrating?\n\n\nTake some written notes.\n\n\n\n\n\n−+\n02:00"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#take-a-break",
-    "href": "1-1-website/1-1-website.html#take-a-break",
-    "title": "I have no title for these slides",
-    "section": "Take a break",
-    "text": "Take a break\nPlease get up and move! Leave your emails alone.\n\n\n\n\n−+\n15:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#your-turn-1",
-    "href": "1-1-website/1-1-website.html#your-turn-1",
-    "title": "I have no title for these slides",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nOpen github.com\nNavigate to your profile\nWhen completed, place a yellow sticky note on your laptop\n\n\nNow, follow along the screen and instructor.\n\n\n\n\n\n−+\n01:00"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#read-on-fork-and-clone",
-    "href": "1-1-website/1-1-website.html#read-on-fork-and-clone",
-    "title": "I have no title for these slides",
-    "section": "Read on: Fork and clone",
-    "text": "Read on: Fork and clone\n\nHappy Git and GitHub for the useR"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#your-turn-2",
-    "href": "1-1-website/1-1-website.html#your-turn-2",
-    "title": "I have no title for these slides",
-    "section": "Your turn",
-    "text": "Your turn\n\n\nOpen the landing page for the GitHub organization ‘gitforsci-cis’: https://github.com/gitforsci-cis (try to use your bookmark)\nNavigate down the page to the section “Repositories” and use the search field to find the repository called man-washinvestments-USERNAME where USERNAME is your GitHub username.\nClick on the repository name to open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard by clicking on the clipboard sign.\nOpen the RStudio IDE on your laptop.\nClick on File &gt; New Project in the top menu bar\nClick on Version Control.\nClick on Git.\nClick on Browse… button.\nUse the folder structure you created in the pre-course work (e.g. ~/Documents/gitrepos/gh-org-gitforsci-cis)\nPaste the HTTPS URL from GitHub into the “Repository URL” field.\nClick on the “Create Project” button.\nFind the Files tab in the bottom right pane of RStudio.\n\n\nPlace the yellow sticky note on your laptop when you have completed the task.\n\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#our-turn",
-    "href": "1-1-website/1-1-website.html#our-turn",
-    "title": "I have no title for these slides",
-    "section": "Our turn",
-    "text": "Our turn\n\n\nWe will continue together with man-washinvestments-USERNAME where USERNAME is your GitHub\n\n\n\n\n\n−+\n01:00"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#our-turn-1",
-    "href": "1-1-website/1-1-website.html#our-turn-1",
-    "title": "I have no title for these slides",
-    "section": "Our turn",
-    "text": "Our turn\n\n\nWe will continue together with man-washinvestments-USERNAME where USERNAME is your GitHub\n\n\n\n\n\n−+\n01:00"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#github-pages",
-    "href": "1-1-website/1-1-website.html#github-pages",
-    "title": "I have no title for these slides",
-    "section": "GitHub Pages",
-    "text": "GitHub Pages\n\nGitHub Pages is a free service for hosting static websites. It is ideal for blogs, course or project websites, books, presentations, and personal hobby sites."
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#minimal-example---requirements",
-    "href": "1-1-website/1-1-website.html#minimal-example---requirements",
-    "title": "I have no title for these slides",
-    "section": "Minimal Example - Requirements",
-    "text": "Minimal Example - Requirements\n\nLanding site needs to be stored as index.qmd\nThe index.qmd needs to be stored in docs folder\nExample works well for a report/article as a stand-alone page\nQuarto provides a framework and examples for more complex websites: https://quarto.org/docs/websites/"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#quarto-websites",
-    "href": "1-1-website/1-1-website.html#quarto-websites",
-    "title": "I have no title for these slides",
-    "section": "Quarto websites",
-    "text": "Quarto websites\n\nWebsites are essentially format: html + a Quarto Project\nBut a website is different than format: html in that it has multiple pages\nWebsites can be your first exploration into Quarto Projects\nWebsites and books are very similar in that they associate multiple pages/resources into a connected resource"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#learn-more",
-    "href": "1-1-website/1-1-website.html#learn-more",
-    "title": "I have no title for these slides",
-    "section": "Learn more",
-    "text": "Learn more\n\nquarto.org/docs/websites"
-  },
-  {
-    "objectID": "1-1-website/1-1-website.html#wrap-up-1",
-    "href": "1-1-website/1-1-website.html#wrap-up-1",
-    "title": "I have no title for these slides",
-    "section": "Wrap-up",
-    "text": "Wrap-up\n\nPost your collected questions in the Element channel\nStart your first project using Git & GitHub (already have a project? Read here)\nKeep learning by doing (create PRs to yourself)\nShare your knowledge with others (help them get started)"
   }
 ]

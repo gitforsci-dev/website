@@ -1,7 +1,11 @@
 ---
 title: "{{< var md-01.title >}}"
 subtitle: "{{< var course.long-title >}}"
-author: "Lars Schöbitz"
+author: 
+  - name: Lars Schöbitz
+    affiliations:
+        - name: Global Health Engineering - ETH Zurich
+          url: https://ghe.ethz.ch/
 date: "2025-05-27"
 date-format: long
 footer: "[{{< fa link >}} {{< var course.site-short >}}]({{< var course.site >}})"
