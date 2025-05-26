@@ -282,7 +282,7 @@
     "href": "1-1-website/1-1-website.html#read-on-github-strategies",
     "title": "I have no title, yet.",
     "section": "Read on: GitHub strategies",
-    "text": "Read on: GitHub strategies\n\nOpenscapes Champions Lesson Series. @julia_stewart_lowndes_2024_14428503: https://openscapes.github.io/series/core-lessons/github/\nExcuse Me, Do You Have a Moment to Talk About Version Control? https://peerj.com/preprints/3159/"
+    "text": "Read on: GitHub strategies\n\nOpenscapes Champions Lesson Series. Lowndes, Butland, and Robinson (2024): https://openscapes.github.io/series/core-lessons/github/\nExcuse Me, Do You Have a Moment to Talk About Version Control? https://peerj.com/preprints/3159/"
   },
   {
     "objectID": "1-1-website/1-1-website.html#your-turn-1",
@@ -290,6 +290,13 @@
     "title": "I have no title, yet.",
     "section": "Your turn",
     "text": "Your turn\n\n\nOpen github.com\nNavigate to your profile\nWhen completed, place a yellow sticky note on your laptop\n\n\nNow, follow along the screen and instructor.\n\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#your-turn-2",
+    "href": "1-1-website/1-1-website.html#your-turn-2",
+    "title": "I have no title, yet.",
+    "section": "Your turn",
+    "text": "Your turn\n\n\nClone a GitHub repository of a fellow student (browse: github.com/username to fine the repository website)\nOpen the repository in RStudio IDE\nMake a change the README.md file\nSave the file\nStage, Commit & Push the changes\n\n\n\n\nid\nusername1\nusername2\n\n\n\n\n1\nMadliboom\nfdaguanno\n\n\n2\nTillRoost\nmag-wer\n\n\n3\npacotvj99\nlouma3000\n\n\n4\nellahenninger\nCamilleFournierDL\n\n\n5\ndheimgartner\njineichen\n\n\n6\nvgeier\nrjalcock\n\n\n7\nJonathan-Elkobi\nrainbow-train\n\n\n\n\nWhat happens?\n\n\n\n\n\n−+\n05:00"
   },
   {
     "objectID": "1-1-website/1-1-website.html#read-on-fork-and-clone",
@@ -306,8 +313,8 @@
     "text": "Take a break\nPlease get up and move! Leave your emails alone.\n\n\n\n\n−+\n15:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
   },
   {
-    "objectID": "1-1-website/1-1-website.html#your-turn-2",
-    "href": "1-1-website/1-1-website.html#your-turn-2",
+    "objectID": "1-1-website/1-1-website.html#your-turn-3",
+    "href": "1-1-website/1-1-website.html#your-turn-3",
     "title": "I have no title, yet.",
     "section": "Your turn",
     "text": "Your turn\n\n\nOpen the landing page for the GitHub organization ‘gitforsci-cis’: https://github.com/gitforsci-cis (try to use your bookmark)\nNavigate down the page to the section “Repositories” and use the search field to find the repository called man-washinvestments-USERNAME where USERNAME is your GitHub username.\nClick on the repository name to open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard by clicking on the clipboard sign.\nOpen the RStudio IDE on your laptop.\nClick on File &gt; New Project in the top menu bar\nClick on Version Control.\nClick on Git.\nClick on Browse… button.\nUse the folder structure you created in the pre-course work (e.g. ~/Documents/gitrepos/gh-org-gitforsci-cis)\nPaste the HTTPS URL from GitHub into the “Repository URL” field.\nClick on the “Create Project” button.\nFind the Files tab in the bottom right pane of RStudio.\n\n\nPlace the yellow sticky note on your laptop when you have completed the task.\n\n\n\n\n\n−+\n05:00"
@@ -373,7 +380,7 @@
     "href": "1-1-website/1-1-website.html#references",
     "title": "I have no title, yet.",
     "section": "References",
-    "text": "References\n\n\n\n https://gitforsci-cis.github.io/website/"
+    "text": "References\n\n\n\n https://gitforsci-cis.github.io/website/\n\n\n\n\nLowndes, Julia Stewart, Stefanie Butland, and Erin Robinson. 2024. “Openscapes/Series: Openscapes Lesson Series V2024.11.0.” Zenodo. https://doi.org/10.5281/zenodo.14428503."
   },
   {
     "objectID": "0-1-pre-work/02-install-r.html",
