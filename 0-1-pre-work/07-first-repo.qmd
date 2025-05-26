@@ -41,7 +41,7 @@ Confirm that you have [completed the pre-course survey](04-survey.qmd) and let m
 
 1. Open the landing page for the GitHub organization 'gitforsci-cis': <https://github.com/gitforsci-cis> (try to use your bookmark)
 
-2. Navigate down the page to the section "Repositories" and use the search field to find the repository called `01-setup-rainbow-train-USERNAME` where USERNAME is your GitHub username.
+2. Navigate down the page to the section "Repositories" and use the search field to find the repository called `01-setup--USERNAME` where USERNAME is your GitHub username.
 
 ![](images/03-02-01-screenshot-github-repo.png){width=100%}
 
