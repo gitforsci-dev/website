@@ -226,56 +226,56 @@
     "href": "1-1-website/1-1-website.html#section-1",
     "title": "I have no title, yet.",
     "section": "",
-    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nWhy GitHub?\nThe concepts, mechanics, and vocabulary of GitHub (and underlying software Git) are new and unfamiliar when we get started or learn more about its capabilities. Hadley Wickham and Jenny Bryan use the analogy of climbing to describe how GitHub can keep us safe while also showing our journey.\nWickham & Bryan, R Packages https://r-pkgs.org/preface.html"
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nWhy GitHub?\nThe concepts, mechanics, and vocabulary of GitHub (and underlying software Git) are new and unfamiliar when we get started or learn more about its capabilities.\nHadley Wickham and Jenny Bryan use the analogy of climbing to describe how GitHub can keep us safe while also showing our journey.\nWickham & Bryan, R Packages https://r-pkgs.org/preface.html"
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-2",
     "href": "1-1-website/1-1-website.html#section-2",
     "title": "I have no title, yet.",
     "section": "",
-    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps streamline our work\nGitHub helps streamline our work because it takes care of otherwise time-consuming bookkeeping and unrelenting file tracking. Instead of spending our time inspecting and fretting over whether “analysis_final_v2.xls” or “analysis_final_final.xls” is truly the final version, with GitHub we can be confident in our completed analysis and move to the next step."
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps streamline our work\nGitHub helps streamline our work because it takes care of otherwise time-consuming bookkeeping and unrelenting file tracking.\nInstead of spending our time inspecting and fretting over whether “analysis_final_v2.xls” or “analysis_final_final.xls” is truly the final version, with GitHub we can be confident in our completed analysis and move to the next step."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-3",
     "href": "1-1-website/1-1-website.html#section-3",
     "title": "I have no title, yet.",
     "section": "",
-    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us support\nGitHub helps us support others and existing work. Whether we are organizing, improving documentation, or asking and answering questions, GitHub helps us provide support to our collaborators on projects, whether we are writing code or not."
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us support others and existing work.\nWhether we are organizing, improving documentation, or asking and answering questions, GitHub helps us provide support to our collaborators on projects, whether we are writing code or not."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-4",
     "href": "1-1-website/1-1-website.html#section-4",
     "title": "I have no title, yet.",
     "section": "",
-    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us reuse\nGitHub helps us reuse existing work, which lets us learn and build from other people’s shared experience rather than reinventing on our own. Plus, the existing work gets better each time someone tries it and shares their experience back. Whether it’s code, documentation, or knowledge through posted conversations, reusing existing things can save time, resources, and frustration. Importantly, reuse also expands the value of existing work while celebrating the contributions of others."
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us reuse existing work\nGitHub helps us reuse existing work, which lets us learn and build from other people’s shared experience rather than reinventing on our own.\nPlus, the existing work gets better each time someone tries it and shares their experience back. Whether it’s code, documentation, or knowledge through posted conversations, reusing existing things can save time, resources, and frustration. Importantly, reuse also expands the value of existing work while celebrating the contributions of others."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-5",
     "href": "1-1-website/1-1-website.html#section-5",
     "title": "I have no title, yet.",
     "section": "",
-    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us contribute\nGitHub helps us contribute ideas through code, text, and more, with less worry about file management. This helps us feel more confident to share work-in-progress and contribute to existing work, knowing that we won’t break things. It also helps us share work earlier that might be imperfect, since we can still make changes from there."
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us contribute\nGitHub helps us contribute ideas through code, text, and more, with less worry about file management. This helps us feel more confident to share work-in-progress and contribute to existing work, knowing that we won’t break things.\nIt also helps us share work earlier that might be imperfect, since we can still make changes from there."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-6",
     "href": "1-1-website/1-1-website.html#section-6",
     "title": "I have no title, yet.",
     "section": "",
-    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us fail safely\nGitHub helps us fail safely. Because we can return to previous versions easily, painful consequences of failing are reduced. We can more bravely try things and start making contributions, knowing that some (many?) will fail - but won’t be catastrophic! When we fail, we’ll be able to start again from where we left off (instead of from the ground), and a clear history can help us learn from the past."
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us fail safely\nGitHub helps us fail safely. Because we can return to previous versions easily, painful consequences of failing are reduced. We can more bravely try things and start making contributions, knowing that some (many?) will fail - but won’t be catastrophic!\nWhen we fail, we’ll be able to start again from where we left off (instead of from the ground), and a clear history can help us learn from the past."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-7",
     "href": "1-1-website/1-1-website.html#section-7",
     "title": "I have no title, yet.",
     "section": "",
-    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nHarness the power of GitHub.\nOnce we are empowered to work collaboratively with GitHub, it opens up a whole new world of projects that feel more welcoming because we can contribute in many different ways, using familiar approaches, and evolving with new possibilities as they emerge. This transferrable ability to collaborate and develop confidence for trying new things might just be the best thing about GitHub."
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nHarness the power of GitHub.\nOnce we are empowered to work collaboratively with GitHub, it opens up a whole new world of projects that feel more welcoming because we can contribute in many different ways, using familiar approaches, and evolving with new possibilities as they emerge.\nThis transferrable ability to collaborate and develop confidence for trying new things might just be the best thing about GitHub."
   },
   {
     "objectID": "1-1-website/1-1-website.html#section-8",
     "href": "1-1-website/1-1-website.html#section-8",
     "title": "I have no title, yet.",
     "section": "",
-    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub for the win!\nGitHub enables new frontiers for open science as we collaborate, share, and publish more easily. And, it is critical to continually question who is safe to participate with these tools. Who is not yet participating, and why? Barriers to access include past exclusion, skills, and support. Let’s all work empathetically and inclusively to help make more people feel welcome and safe using these powerful tools so we can all go further, together."
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub for the win!\nGitHub enables new frontiers for open science as we collaborate, share, and publish more easily.\nAnd, it is critical to continually question who is safe to participate with these tools. Who is not yet participating, and why? Barriers to access include past exclusion, skills, and support. Let’s all work empathetically and inclusively to help make more people feel welcome and safe using these powerful tools so we can all go further, together."
   },
   {
     "objectID": "1-1-website/1-1-website.html#read-on-github-strategies",
