@@ -1,1 +1,0 @@
-Sitemap: https://gitforsci-cis.github.io/website/sitemap.xml

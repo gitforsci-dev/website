@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  render:
+    # Render site content only; keep project docs (TEMPLATING.md,
+    # SETUP-CHECKLIST.md) out of the rendered site.
+    - "*.qmd"
+    - "**/*.qmd"
 
 website:
   page-navigation: true

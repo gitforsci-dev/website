@@ -46,7 +46,6 @@ Prior to the workshop, complete the following seven steps:
 -   [Step 8](0-1-pre-work/08-big-picture.html): Read "Why Git? Why GitHub?" from "Happy Git and GitHub for the useR"!
 
 ```{r}
-library(googlesheets4)
 library(dplyr)
 library(knitr)
 library(readr)
