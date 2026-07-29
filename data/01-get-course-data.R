@@ -15,7 +15,11 @@ library(stringr)
 
 # course schedule ------------------------------------------------------------
 
-tbl_schedule_link <- "https://docs.google.com/spreadsheets/d/17II8gBniyIGet2T9OLPnFzX-mDs8cCCAZ6p3slZ8uSA/edit?gid=0#gid=0"
+# Optional: regenerate the schedule from a Google Sheet. The template ships
+# a committed sample at data/tbl-01-course-schedule.csv so the site renders
+# offline; run this only when you maintain the schedule in a sheet. Set the
+# link to your own sheet.
+tbl_schedule_link <- "https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/edit?gid=0#gid=0"
 
 googlesheets4::read_sheet(tbl_schedule_link) |>
   mutate(title = case_when(
@@ -27,4 +31,4 @@ googlesheets4::read_sheet(tbl_schedule_link) |>
   mutate(end_time = as.character(end_time)) |>
   mutate(end_time = str_extract(end_time, "\\b\\d{2}:\\d{2}\\b")) |>
   mutate(time = paste(start_time, end_time, sep = " - ")) |>
-  write_csv(here::here("data/tbl-01-gitforsci-cis-course-schedule.csv"))
+  write_csv(here::here("data/tbl-01-course-schedule.csv"))
