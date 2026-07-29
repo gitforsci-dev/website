@@ -283,12 +283,10 @@ Bloom check: objective 1 is Apply (create, clone, run, revert are observable pro
 #| tbl-colwidths: [25,75]
 #| echo: false
 
-read_csv(here::here("data/tbl-01-course-schedule.csv"),
+read_csv(here::here("data/course-schedule.csv"),
          show_col_types = FALSE) |>
   filter(day == 1) |>
   select(Time = time, Module = title) |>
-  # strip any [text](link) markdown so the schedule shows plain module names
-  mutate(Module = str_replace_all(Module, "\\[([^]]+)\\]\\([^)]*\\)", "\\1")) |>
   kable()
 
 ```

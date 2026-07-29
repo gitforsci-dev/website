@@ -65,11 +65,9 @@ library(readr)
 ```{r}
 #| tbl-colwidths: [25,75]
 
-read_csv(here::here("data/tbl-01-course-schedule.csv")) |>
+read_csv(here::here("data/course-schedule.csv"), show_col_types = FALSE) |>
   filter(day == 1) |>
   select(Time = time, Module = title) |>
-  # strip any [text](link) markdown so the schedule shows plain module names
-  mutate(Module = gsub("\\[([^]]+)\\]\\([^)]*\\)", "\\1", Module)) |>
   kable()
 
 ```
