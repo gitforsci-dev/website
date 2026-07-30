@@ -32,6 +32,9 @@ jobs:
             any::readr
             any::dplyr
             any::here
+            any::tidyverse
+            any::countdown
+            any::ggthemes
 
       - name: Render and publish to gh-pages
         uses: quarto-dev/quarto-actions/publish@v2
