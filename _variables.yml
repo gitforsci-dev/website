@@ -46,11 +46,12 @@ session:
   registration-closed: false
   registration-interest-form: "https://example.org/interest"
 
-# External links and data sources. Data defaults to a committed local
-# sample so the template renders offline.
+# External links and data sources. The schedule is a hand-editable CSV
+# committed in the repo (data/course-schedule.csv); edit it directly per
+# cohort. No external fetch or auth is needed.
 resources:
   survey-url: "https://example.org/survey"
-  schedule-data: "data/tbl-01-course-schedule.csv"
+  schedule-data: "data/course-schedule.csv"
 
 md-01:
   title: "GitHub for Collaboration"
