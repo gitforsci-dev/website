@@ -6,6 +6,15 @@ project:
     # SETUP-CHECKLIST.md, workshop/lesson-plan.md) out of the rendered site.
     - "*.qmd"
     - "**/*.qmd"
+    # GitHub Desktop is the default route of the pre-course work. The pages
+    # of the RStudio route stay in the repository, out of the render.
+    - "!pre-work/01-install-r.qmd"
+    - "!pre-work/04-github-pat.qmd"
+    - "!pre-work/05-install-git.qmd"
+    - "!pre-work/06a-clone-repo.qmd"
+    - "!pre-work/06b-configure-git.qmd"
+    - "!pre-work/06c-install-verify.qmd"
+    - "!pre-work/07-big-picture.qmd"
 
 # NOTE: title, site-url, repo-url, the sidebar GitHub href, and the Plausible
 # analytics domain below are iteration-specific. They are written in by
@@ -47,28 +56,32 @@ website:
       - section: "Pre-course work"
         href: index.qmd
         contents:
-          - href: pre-work/01-install-r.qmd
-            text: "Step 1: Install R & RStudio"
+          - href: pre-work/01-survey.qmd
+            text: "Step 1: Pre-course survey"
           - href: pre-work/02-github-acc.qmd
             text: "Step 2: GitHub account"
-          - href: pre-work/03-survey.qmd
-            text: "Step 3: Pre-course survey"
-          - href: pre-work/04-github-pat.qmd
-            text: "Step 4: GitHub PAT"
-          - href: pre-work/05-install-git.qmd
-            text: "Step 5: Install Git"
-          - href: pre-work/06a-clone-repo.qmd
-            text: "Step 6a: Test setup - clone repository"
-          - href: pre-work/06b-configure-git.qmd
-            text: "Step 6b: Test setup - configure Git"
-          - href: pre-work/06c-install-verify.qmd
-            text: "Step 6c: Test setup - install & report"
-          - href: pre-work/07-big-picture.qmd
-            text: "Step 7: Why Git? Why GitHub?"
+          - href: pre-work/03-github-desktop.qmd
+            text: "Step 3: Install GitHub Desktop"
+          - href: pre-work/04-email-privacy.qmd
+            text: "Step 4: Email address in commits"
+          - href: pre-work/05-setup-check.qmd
+            text: "Step 5: Setup check"
+          - href: pre-work/06-your-repository.qmd
+            text: "Step 6: Your own repository"
+          # Entries of the RStudio route, out of the render:
+          #   - href: pre-work/01-install-r.qmd      text: "Install R & RStudio"
+          #   - href: pre-work/04-github-pat.qmd     text: "GitHub PAT"
+          #   - href: pre-work/05-install-git.qmd    text: "Install Git"
+          #   - href: pre-work/06a-clone-repo.qmd    text: "Test setup - clone repository"
+          #   - href: pre-work/06b-configure-git.qmd text: "Test setup - configure Git"
+          #   - href: pre-work/06c-install-verify.qmd text: "Test setup - install & report"
+          #   - href: pre-work/07-big-picture.qmd    text: "Why Git? Why GitHub?"
       - section: "Workshop"
         contents:
           - href: workshop/index.qmd
             text: "Git for Scientists"
+      - href: glossary.qmd
+        text: "Glossary"
 
 format:
   html:

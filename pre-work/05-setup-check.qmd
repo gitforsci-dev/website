@@ -1,0 +1,41 @@
+## {{< fa circle-check >}} Step 5: Setup check
+
+About 20 minutes. Due by [**{{< var session.setup-check-deadline >}}**]{.highlight-yellow}.
+
+You accept the invitation to the course organisation, copy the workshop repository to your laptop (Git calls this a clone) and tick off what you have done. Your steps are in an issue in the workshop repository, with a box to tick for each. Step 6 shows where to find it after you have accepted the invitation.
+
+## Before you start: one folder for all repositories
+
+Create a folder named `gitrepos` in your **Documents** folder. Every repository you clone goes into it. Inside `gitrepos`, create a folder named `gh-org-{{< var course.code >}}`. It holds the repositories of the organisation `{{< var course.code >}}`.
+
+```
+Documents/
+└── gitrepos/
+    └── gh-org-{{< var course.code >}}/
+        ├── workshop/
+        └── teaching-your-username/
+```
+
+The folder shows where a repository belongs on GitHub. Do not put `gitrepos` into a folder that syncs with iCloud, OneDrive or Dropbox. Git and the sync get in each other's way, and changes are lost.
+
+## Steps
+
+1. Accept the invitation. After you have given your GitHub username in the [survey](01-survey.qmd), GitHub sends you an email with the button **Join \@{{< var course.code >}}**. Or open <https://github.com/orgs/{{< var course.code >}}/invitation> while signed in.
+2. Open GitHub Desktop. Choose the menu **File**, **Clone Repository...**, then the tab **URL**.
+3. Type `{{< var course.code >}}/workshop` into the first field.
+4. Look at **Local Path** before you click anything else. Click **Choose...**, go to **Documents**, then **gitrepos**, select `gh-org-{{< var course.code >}}` and confirm.
+5. **Local Path** now ends in `gitrepos/gh-org-{{< var course.code >}}/workshop`. GitHub Desktop adds the name of the repository. Click **Clone**. GitHub Desktop shows **Current Repository: workshop** at the top left.
+6. Open the [issues of the workshop repository](https://github.com/{{< var course.code >}}/workshop/issues) and click the one with your username in its title. Tick the boxes for Steps 3 to 5.
+
+You are done with this step when the three boxes are ticked.
+
+## Stuck?
+
+- **No invitation.** I can only invite you once I have your username. Complete the [survey](01-survey.qmd) and look again an hour later.
+- **GitHub Desktop says the repository was not found.** The invitation is not accepted yet, or GitHub Desktop is signed in with a different account. Check **Settings** or **Options**, tab **Accounts**.
+- **The path ends in a folder named Untitled** (macOS). Click **Choose...** again and select `gh-org-{{< var course.code >}}` without typing a name.
+- Anything else: write what you see as a comment in your issue, with a screenshot.
+
+Next: [Step 6](06-your-repository.qmd).
+
+If the setup is not finished by the workshop, come anyway. You sit with a neighbour who has it and follow on their laptop.

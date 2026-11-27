@@ -1,0 +1,89 @@
+## {{< fa folder-plus >}} Step 6: Your own repository and your first commit
+
+About 25 minutes. Due by [**{{< var session.setup-check-deadline >}}**]{.highlight-yellow}.
+
+You create a repository of your own, write three lines about your teaching into it, copy it to your laptop and make one commit there. In the workshop you bring the file with your three lines into the shared workshop repository with a pull request. The hands-on part of the workshop builds on this step.
+
+You need Steps 3 to 5 first: GitHub Desktop is installed and signed in, and you have accepted the invitation to the organisation `{{< var course.code >}}`.
+
+## Part 1: Create the repository (in the browser)
+
+<!-- Before a cohort uses this page: check the names Repositories and New
+repository against screenshots of a learner account, and add the screenshots.
+The prefix teaching- and the three lines in Part 2 are the default exercise;
+a cohort changes the prefix and the lines. -->
+
+Your repository lives in the organisation `{{< var course.code >}}`, beside the workshop repository and the repositories of the other participants. You start from the organisation's page, so that you see where you are.
+
+1. Open the organisation's page: [github.com/{{< var course.code >}}](https://github.com/{{< var course.code >}}). Its name stands at the top left.
+2. Click the tab **Repositories**, then the green button **New repository**.
+3. Check the field **Owner**. It must say `{{< var course.code >}}`. If it shows your own username, click it and choose `{{< var course.code >}}`.
+4. **Repository name:** `teaching-` followed by your GitHub username, exactly as it is on GitHub, for example `teaching-octocat`. Below the field, GitHub writes **is available** in green.
+5. Under **Choose visibility**, choose **Private**.
+6. Switch on **Add README**. Leave the other fields as they are.
+7. Click **Create repository**. GitHub shows your repository with one file, `README.md`.
+
+At the top left you now read `{{< var course.code >}}`, a lock and the name of your repository.
+
+## Part 2: Write your three lines (in the browser)
+
+1. In your new repository, click **Add file**, then **Create new file**.
+2. Name the file after your GitHub username with the ending `.md`, for example `octocat.md`.
+3. Copy these lines into the file and fill them in:
+
+   ```
+   # your-username
+
+   - Who I teach:
+   - With which tool:
+   - What blocks me:
+   ```
+
+4. Click **Commit changes...**. Write the commit message `Add my teaching context` and click **Commit changes**.
+
+A commit is one saved state of your repository, with who, when and what. You have now made your first one.
+
+## Part 3: Clone the repository (GitHub Desktop)
+
+Clone a repository once. A second click on Clone makes a second copy on your laptop, and the two get mixed up.
+
+1. Open GitHub Desktop. Choose the menu **File**, **Clone Repository...**, then the tab **URL**.
+2. Type `{{< var course.code >}}/teaching-` followed by your username into the first field.
+3. Look at **Local Path**. Click **Choose...** and select the folder `gh-org-{{< var course.code >}}` in `gitrepos`, as in Step 5. The path must end in `gitrepos/gh-org-{{< var course.code >}}/teaching-` followed by your username.
+4. Click **Clone**. GitHub Desktop shows your repository at the top left.
+
+## Part 4: An editor (recommended)
+
+GitHub Desktop shows changes, but it does not edit files. I recommend [Sublime Text](https://www.sublimetext.com/download), a free editor for plain text.
+
+1. Install Sublime Text.
+2. In GitHub Desktop, open **Settings** (Windows: **File**, **Options**), tab **Integrations**, and choose **Sublime Text** as **External Editor**.
+
+Without Sublime Text, use TextEdit on macOS or Notepad on Windows. Do not use Word.
+
+## Part 5: One commit from your laptop
+
+1. Open the file `README.md` of your repository. With Sublime Text: menu **Repository**, **Open in Sublime Text**, then click `README.md`. Without it: menu **Repository**, **Show in Finder** (Windows: **Show in Explorer**), then open `README.md` with TextEdit or Notepad.
+2. Add one sentence below the title, for example what this repository is for. Save the file.
+3. Go back to GitHub Desktop. The tab **Changes** lists `README.md` with a tick.
+4. Write a commit message in the field at the bottom left, for example `Describe this repository`.
+5. Click **Commit to main**.
+6. Click **Push origin** at the top. Your commit is now on GitHub as well.
+
+## Part 6: Check and report
+
+1. In GitHub Desktop, click the tab **History**. You see three commits: the first one made by GitHub, your three lines, and the sentence in the README.
+2. Open your issue in the [workshop repository](https://github.com/{{< var course.code >}}/workshop/issues), the one with your username in its title, and tick the box for Step 6.
+3. Write the comment `setup complete` in the issue.
+
+You are done when your comment stands in your issue.
+
+## Stuck?
+
+- **There is no button New repository, or the owner `{{< var course.code >}}` is not in the list.** The invitation is not accepted yet. Open <https://github.com/orgs/{{< var course.code >}}/invitation> while signed in.
+- **The repository is in your own account.** Open it, then **Settings**, at the very bottom **Transfer ownership**, and choose `{{< var course.code >}}`. Or write a comment in your issue and I do it with you.
+- **The push is rejected.** You switched on "Block command line pushes that expose my email" in Step 4, and GitHub Desktop still uses your real address. Open **Settings** (Windows: **File**, **Options**), tab **Git**, choose the address that ends in `@users.noreply.github.com` and save. Then click **Undo** at the bottom of the tab **Changes** and commit again.
+- **Something went very wrong with the clone.** Delete the folder on your laptop and clone again. The version on GitHub is the latest one, as far as you pushed.
+- Anything else: write what you see as a comment in your issue, with a screenshot.
+
+If this step is not finished by the workshop, come anyway. You sit with a neighbour who has it and follow on their laptop.

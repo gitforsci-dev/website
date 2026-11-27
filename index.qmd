@@ -20,6 +20,8 @@ AI coding agents are rapidly entering scientific work, and using them with confi
 
 ## {{< fa graduation-cap >}} Prior knowledge
 
+No experience with Git or GitHub is assumed.
+
 For this course, we assume that you have some prior knowledge of R and RStudio. You should be able to:
 
 - install and load R packages
@@ -41,18 +43,16 @@ Please ensure you have the following available:
 
 ## {{< fa circle-question >}} What do I need to prepare before the workshop?
 
-Prior to the workshop, complete the following seven steps:
+Prior to the workshop, complete the following six steps:
 
--   [Step 1](pre-work/01-install-r.html): Download and install R and RStudio
--   [Step 2](pre-work/02-github-acc.html): Get an account for GitHub
--   [Step 3](pre-work/03-survey.html): Complete the pre-course survey by [**{{< var session.survey-deadline >}}**]{.highlight-yellow}.
--   [Step 4](pre-work/04-github-pat.html): Create a personal access token for GitHub
--   [Step 5](pre-work/05-install-git.html): Install Git
--   Step 6: Check your complete setup by [**{{< var session.setup-check-deadline >}}**]{.highlight-yellow}, in three short parts (unlocked after the pre-course survey is completed):
-    -   [Step 6a](pre-work/06a-clone-repo.html): Clone the setup repository
-    -   [Step 6b](pre-work/06b-configure-git.html): Configure Git and push
-    -   [Step 6c](pre-work/06c-install-verify.html): Install packages and report done
--   [Step 7](pre-work/07-big-picture.html): Read "Why Git? Why GitHub?" from "Happy Git and GitHub for the useR"!
+-   [Step 1](pre-work/01-survey.html): Complete the pre-course survey by [**{{< var session.survey-deadline >}}**]{.highlight-yellow}.
+-   [Step 2](pre-work/02-github-acc.html): Get an account for GitHub, if you have none.
+-   [Step 3](pre-work/03-github-desktop.html): Install GitHub Desktop and sign in.
+-   [Step 4](pre-work/04-email-privacy.html): Decide where your email address shows.
+-   [Step 5](pre-work/05-setup-check.html): Do the setup check.
+-   [Step 6](pre-work/06-your-repository.html): Create your own repository and make your first commit.
+
+Steps 3 to 6 take about 60 minutes and are due by [**{{< var session.setup-check-deadline >}}**]{.highlight-yellow}. The hands-on part builds on the pre-work. Anyone who arrives without it sits with a prepared neighbour and follows on their laptop.
 
 ```{r}
 library(dplyr)
